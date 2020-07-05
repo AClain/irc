@@ -4,7 +4,7 @@ _Projet réalisé dans le cadre de la formation Web@cadémie, Epitech. En équip
 
 ## Description
 
-Ce projet a pour but de répliquer le fonctionnement d'un IRC (ou chat instantannée, voir [Internet_Relay_Chat](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)).
+Ce projet a pour but de répliquer le fonctionnement d'un IRC (ou chat instantannée, voir [Internet Relay Chat](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)).
 Il possède une interface graphique ainsi qu'un système de commande pour naviguer entre les salles de discussion.
 
 ## Utilisation
