@@ -1,6 +1,6 @@
 ## irc
 
-_Projet réalisé dans le cadre de la formation Web@cadémie, Epitech. En équipe avec Mona Baly (https://github.com/Mona-src)_
+_Projet réalisé dans le cadre de la formation Web@cadémie, Epitech. En équipe avec Mona Baly ([github](https://github.com/Mona-src))_
 
 ## Description
 
