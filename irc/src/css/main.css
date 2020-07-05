@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(46, 46, 46);
+    color: #E1E1E1;
+}
+
+hr {
+    background-color: white;
+}
+
+.container-fluid, .container {
+    padding: 0;
+}
+
+[class^="col-"] {
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
+

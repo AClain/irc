@@ -1,0 +1,40 @@
+.chat-box {
+    overflow: auto;
+    padding: 0;
+}
+
+.admin-message {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(149, 197, 214);
+}
+
+.message {
+    display: inline-block;
+    width: 100%;
+    padding: 5px 10px;
+    margin: 5px 0px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.whisper {
+    background-color: #a6dcef;
+    color: #1b262c;
+}
+
+.autolink-user {
+    background-color: rgb(10, 143, 130);
+    cursor: pointer;
+    padding: 0px 10px;
+}
+
+.autolink-channel {
+    background-color: rgb(10, 143, 130);
+    cursor: pointer;
+    padding: 0px 10px;
+}
+
+.tab-pane {
+    height: 90vh;
+}

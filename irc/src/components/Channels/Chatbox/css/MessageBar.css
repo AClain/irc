@@ -1,0 +1,30 @@
+#message-bar {
+    height: 5vh;
+    padding: 0;
+}
+
+#message-input {
+    height: 100%;
+    border-radius: 10px;
+    margin: 0px 15px;
+    border: none;
+    background-color: #53768a;
+    color: #E1E1E1;
+    font-size: 13pt;
+    outline-color: white;
+}
+
+#message-input:focus {
+    outline-color: white;
+}
+
+#message-input::placeholder {
+    color: #E1E1E1;
+}
+
+#message-button {
+    height: 100%;
+    width: 5%;
+    padding: 5px;
+    border-radius: 0;
+}

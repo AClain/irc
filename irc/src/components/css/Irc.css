@@ -1,0 +1,67 @@
+#channel-list-container {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #1b262c;
+    height: 50vh;
+    overflow-y: auto;
+}
+
+#leave-button {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#user-list-container {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #1b262c;
+    height: 50vh;
+    overflow-y: auto;
+}
+
+#user-list img {
+    height: 15px;
+    margin-right: 5px;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+#chat-box-container {
+    padding: 0;
+    background-color: #324752;
+}
+
+#channel-container {
+    padding: 0;
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+
+.list-group-item.active {
+    background-color: white;
+    color: black
+}
+
+.list-group-item:last-child {
+    border-radius: 0;
+}
+
+.list-group-item:first-child {
+    border-radius: 0;
+}

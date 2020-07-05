@@ -1,0 +1,14 @@
+{
+    "users": [],
+    "functions": [],
+    "channels": [
+        {
+            "name": "accueil",
+            "owner": ""
+        },
+        {
+            "name": "channel",
+            "owner": ""
+        }
+    ]
+}
